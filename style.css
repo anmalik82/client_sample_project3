@@ -66,10 +66,6 @@ img {
     
 }
 
-.gap {
-    padding-left: 3rem;
-}
-
 .feature-content img {
     margin-bottom: -8rem;
 }
@@ -81,6 +77,33 @@ img {
 
 .feature-dark h2 {
     color: white;
+}
+
+.feature-alt {
+    background: #f0f0f0;
+}
+
+#feature-four .feature-content {
+    padding: 0;
+}
+
+#feature-five img {
+    margin-top: 2rem;
+}
+
+#main-footer {
+    background: #262f36;
+    color: white;
+    padding: 6rem 0;
+    font-size: 0.8rem;
+}
+
+#main-footer h6 {
+    color: #718fa9;
+}
+
+#main-footer a {
+    color: #6c6f73;
 }
 
 @media screen and ( min-width:991px) {
